@@ -1,0 +1,2 @@
+# HR - Attrition Analysis - Power BI - Dashbiard
+An end-to-end HR Attrition Analysis project developed using Microsoft Power BI to analyze employee turnover, identify attrition patterns, and uncover key workforce insights. The project includes data cleaning and transformation, Star Schema data modeling, custom DAX measures, and interactive multi-page dashboards. It explores employee attrition across departments, job roles, demographics, work experience, and employee satisfaction to support data-driven HR decision-making.
