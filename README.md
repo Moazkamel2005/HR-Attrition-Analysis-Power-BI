@@ -97,20 +97,18 @@ These insights help highlight workforce patterns and identify areas that may req
 
 
 ```text
-HR-Attrition-Analysis/
+
+HR-Attrition-Analysis-Power-BI/
 │
 ├── README.md
-│
-├── PowerBI/
-│   └── HR-Attrition.pbix
-│
-├── Screenshots/
-│   ├── Overview.png
-│   ├── Attrition-Analysis.png
-│   ├── Workforce-Profile.png
-│   └── Employee-Experience.png
-│
-└── Dataset/
+├── HR-Attrition.pbix
+├── Landing Page.png
+├── Overview.png
+├── Attrition Analysis.png
+├── Workforce Profile.png
+├── Employee Experience.png
+└── .gitattributes
+
 ```
 
 ## 🚀 Skills Demonstrated
