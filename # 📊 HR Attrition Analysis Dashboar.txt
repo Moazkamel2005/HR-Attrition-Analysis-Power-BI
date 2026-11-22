@@ -112,12 +112,6 @@ HR-Attrition-Analysis/
 - Business Intelligence
 - Analytical Thinking
 
-## 🙏 Acknowledgment
-
-Special thanks to **Route Academy** for providing this valuable learning experience, and sincere appreciation to my mentor and instructor for their guidance, support, and valuable feedback throughout this project.
-
----
-
 **Developed as part of my Data Analytics learning journey.**
 
 ⭐ If you find this project interesting, feel free to explore the repository!
