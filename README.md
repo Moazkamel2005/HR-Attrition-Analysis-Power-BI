@@ -77,25 +77,24 @@ These insights help highlight workforce patterns and identify areas that may req
 5. Interactive Dashboard Design
 6. Business Insights & Analysis
 
+
 ## 📸 Dashboard Preview
 
-### Workforce Overview
+### Landing Page
+![Landing Page](Landing%20Page.png)
 
+### 1. Workforce Overview
+![Overview](Overview.png)
 
+### 2. Attrition Analysis
+![Attrition Analysis](Attrition%20Analysis.png)
 
-### Attrition Analysis
+### 3. Workforce Profile
+![Workforce Profile](Workforce%20Profile.png)
 
+### 4. Employee Experience
+![Employee Experience](Employee%20Experience.png)
 
-
-### Workforce Profile
-
-
-
-### Employee Experience
-
-
-
-## 📁 Repository Structure
 
 ```text
 HR-Attrition-Analysis/
