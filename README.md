@@ -1,2 +1,133 @@
 # HR - Attrition Analysis - Power BI - Dashboard
 An end-to-end HR Attrition Analysis project developed using Microsoft Power BI to analyze employee turnover, identify attrition patterns, and uncover key workforce insights. The project includes data cleaning and transformation, Star Schema data modeling, custom DAX measures, and interactive multi-page dashboards. It explores employee attrition across departments, job roles, demographics, work experience, and employee satisfaction to support data-driven HR decision-making.
+
+# 📊 HR Attrition Analysis Dashboard | Power BI
+
+## 📌 Project Overview
+
+This project focuses on analyzing **HR Employee Attrition** using Microsoft Power BI to identify employee turnover patterns, understand workforce characteristics, and uncover key factors associated with employee attrition.
+
+The main objective is to transform raw HR data into meaningful business insights through interactive dashboards and data-driven analysis that can support better Human Resources decision-making.
+
+## 🎯 Business Objectives
+
+- Analyze overall employee attrition and retention rates.
+- Identify departments and job roles with higher attrition rates.
+- Explore workforce demographics and employee distribution.
+- Understand employee experience through satisfaction and work-life balance indicators.
+- Provide actionable insights to support HR decision-making.
+
+## 🛠️ Tools & Technologies
+
+- **Microsoft Power BI** – Dashboard development and data visualization.
+- **Power Query** – Data cleaning and transformation.
+- **DAX** – Creating calculated measures and KPIs.
+- **Data Modeling** – Designing a Star Schema with Fact and Dimension tables.
+
+## 📊 Dashboard Pages
+
+### 1. Workforce Overview
+
+Provides a high-level overview of the workforce, including:
+
+- Total Employees
+- Attrition Count
+- Attrition Rate
+- Retention Rate
+
+### 2. Attrition Analysis
+
+Explores employee turnover patterns across:
+
+- Departments
+- Job Roles
+- Years at Company
+
+### 3. Workforce Profile
+
+Analyzes workforce characteristics and employee demographics to understand the composition of the organization.
+
+### 4. Employee Experience
+
+Explores employee experience indicators, including:
+
+- Job Satisfaction
+- Environment Satisfaction
+- Work-Life Balance
+
+## 💡 Key Business Insights
+
+Based on the analysis, several important findings were identified:
+
+- **1,470 Employees:** The total workforce analyzed.
+- **237 Employees Left:** Representing an overall attrition rate of approximately **16.1%**.
+- **83.9% Retention Rate:** The percentage of employees who remained with the organization.
+- **Sales Department:** Recorded the highest attrition rate at approximately **20.6%**.
+- **Human Resources:** Recorded an attrition rate of approximately **19.0%**.
+- **Research & Development:** Recorded an attrition rate of approximately **13.8%**.
+
+These insights help highlight workforce patterns and identify areas that may require further HR investigation.
+
+## 🔄 Project Workflow
+
+1. Data Understanding
+2. Data Cleaning & Transformation
+3. Data Modeling (Star Schema)
+4. DAX Measures & KPI Development
+5. Interactive Dashboard Design
+6. Business Insights & Analysis
+
+## 📸 Dashboard Preview
+
+### Workforce Overview
+
+
+
+### Attrition Analysis
+
+
+
+### Workforce Profile
+
+
+
+### Employee Experience
+
+
+
+## 📁 Repository Structure
+
+```text
+HR-Attrition-Analysis/
+│
+├── README.md
+│
+├── PowerBI/
+│   └── HR-Attrition.pbix
+│
+├── Screenshots/
+│   ├── Overview.png
+│   ├── Attrition-Analysis.png
+│   ├── Workforce-Profile.png
+│   └── Employee-Experience.png
+│
+└── Dataset/
+```
+
+## 🚀 Skills Demonstrated
+
+- Data Cleaning & Preparation
+- Data Modeling
+- Star Schema
+- DAX
+- Power Query
+- KPI Development
+- Data Visualization
+- Business Intelligence
+- Analytical Thinking
+
+---
+
+**Developed as part of my Data Analytics learning journey.**
+
+⭐ If you find this project interesting, feel free to explore the repository!
